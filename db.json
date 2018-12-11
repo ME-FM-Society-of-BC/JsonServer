@@ -1,11 +1,44 @@
 {
-  "posts": [
-    {
+  "practitioners": [
+    {  
       "id": 1,
-      "title": "hello"
+      "lastName":   "Black",
+      "firstName":  "John",
+      "address":    "911 Yates St",
+      "city":       "Victoria",
+      "province":   "BC",
+      "country":    "Canada",
+      "postalCode": "V8V4Y9",
+      "phone":      "250123456",
+      "website":    "www.aldaily.com",
+      "specialtyId": 1,
+      "creationDate": "2015-03-25T12:00:00Z",
+      "lastEditDate": "2015-04-01T12:00:00Z" 
+    },
+    {  
+      "id": 2,
+      "lastName":   "Brown",
+      "firstName":  "Dan",
+      "address":    "1440 Burnaby St",
+      "city":       "Vancouver",
+      "province":   "BC",
+      "country":    "Canada",
+      "postalCode": "V6G1W8",
+      "phone":      "6049876543",
+      "website":    "https://www.alternet.org/",
+      "specialtyId": 2,
+      "creationDate": "2015-03-25T12:00:00Z",
+      "lastEditDate": "2015-03-25T12:00:00Z"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "roles": [
+    {
+      "id": 1,
+      "type": "Active"
+    },
+    {
+      "id": 2,
+      "type": "Administrator"
+    }
+  ]
 }
