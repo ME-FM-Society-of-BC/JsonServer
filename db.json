@@ -31,10 +31,6 @@
       "lastEditDate": "2015-03-25T12:00:00Z"
     }
   ],
-  "roles": [
-    { "id": 1,  "type": "Active" },
-    { "id": 2,  "type": "Administrator" }
-  ],
   "specialties": [
     { "id": 1, "text": "Anaesthesia" },
     { "id": 2, "text": "Cardiology" },
