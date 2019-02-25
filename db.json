@@ -11,10 +11,10 @@
       "postalCode": "v8v4y9",
       "phone": "2508857564",
       "website": "www.aldaily.com",
-      "specialtyId": 2,
+      "specialtyId": 9,
       "creationDate": "2015-03-25T12:00:00Z",
       "lastEditDate": "2015-04-01T12:00:00Z",
-      "specialty": "Cardiology",
+      "specialty": "Family and General Pracice",
       "arrayIndex": 0
     },
     {
@@ -740,7 +740,216 @@
       "text": "20 How likely are you to recommend this practitioner?"
     }
   ],
-  "recommendationActions": [],
+  "actions": [
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 1,
+      "actionType": "rate",
+      "questionId": 1,
+      "value": 0,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 2,
+      "actionType": "rate",
+      "questionId": 1,
+      "value": 1,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 3,
+      "actionType": "rate",
+      "questionId": 1,
+      "value": 1,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 4,
+      "actionType": "rate",
+      "questionId": 1,
+      "value": 1,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 5,
+      "actionType": "rate",
+      "questionId": 1,
+      "value": 1,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 1,
+      "actionType": "rate",
+      "questionId": 2,
+      "value": 1,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 2,
+      "actionType": "rate",
+      "questionId": 2,
+      "value": 0,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 3,
+      "actionType": "rate",
+      "questionId": 2,
+      "value": 0,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 1,
+      "actionType": "rate",
+      "questionId": 6,
+      "value": 0,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 2,
+      "actionType": "rate",
+      "questionId": 6,
+      "value": 1,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 3,
+      "actionType": "rate",
+      "questionId": 6,
+      "value": 2,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 4,
+      "actionType": "rate",
+      "questionId": 6,
+      "value": 3,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 1,
+      "actionType": "rate",
+      "questionId": 7,
+      "value": 4,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 2,
+      "actionType": "rate",
+      "questionId": 7,
+      "value": 4,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 3,
+      "actionType": "rate",
+      "questionId": 7,
+      "value": 3,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 4,
+      "actionType": "rate",
+      "questionId": 7,
+      "value": 3,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 5,
+      "actionType": "rate",
+      "questionId": 7,
+      "value": 2,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 6,
+      "actionType": "rate",
+      "questionId": 7,
+      "value": 1,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 1,
+      "actionType": "rate",
+      "questionId": 8,
+      "value": 3,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 2,
+      "actionType": "rate",
+      "questionId": 8,
+      "value": 0,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 3,
+      "actionType": "rate",
+      "questionId": 8,
+      "value": 0,
+      "date": ""
+    },
+    {
+      "id": 0,
+      "practitionerId": 1,
+      "userId": 4,
+      "actionType": "rate",
+      "questionId": 8,
+      "value": 0,
+      "date": ""
+    },
+    [
+      {
+        "practitionerId": "1",
+        "userId": 1,
+        "actionType": "rate",
+        "questionId": "3",
+        "value": 4,
+        "isNewValue": true
+      }
+    ]
+  ],
   "users": [
     {
       "id": 1,
